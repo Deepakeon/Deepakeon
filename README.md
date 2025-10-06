@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
----
+
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-singh-396a5b218/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
@@ -13,7 +13,7 @@
   </a>
 
 </p>
----
+
 
 ### 🚀 About Me
 
