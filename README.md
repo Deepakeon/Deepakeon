@@ -19,7 +19,7 @@
 
 I turn **complex problems into elegant, performant solutions**, blending frontend creativity with backend logic. I’m passionate about learning cutting-edge technologies and applying them to real-world projects.  
 
-- 🔭 Currently working in ONBO as a Full Stack Developer
+- 🔭 Currently working in ONBO as Full Stack Developer
 - 🌱 Learning **Machine Learning & Artificial Intelligence** to expand my problem-solving toolkit  
 - 💬 Ask me about **Svelte & SvelteKit**—I love discussing modern frontend approaches  
 - ⚡ Fun fact: I enjoy tech, fitness, and exploring parks during my walks  
