@@ -71,10 +71,15 @@ I turn **complex problems into elegant, performant solutions**, blending fronten
 ### 📈 GitHub Stats
 
 <p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepakeon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  </p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakeon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakeon&theme=radical" alt="GitHub Streak" />
-  
+  </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepakeon&label=Profile%20views&color=0e75b6&style=flat" alt="deepakeon" /> 
 </p>
